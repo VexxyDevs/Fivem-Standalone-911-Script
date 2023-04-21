@@ -7,7 +7,7 @@ Fivem Standalone 911 Script ;D
 /911 to call emergency services
 
 example:
-/911 (youremergency) (your location)
+/911 (ur emergency) (your location)
 
 (the caller autoname is your fivem name playername that you chose in your settings)
 
