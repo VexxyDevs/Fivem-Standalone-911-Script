@@ -15,7 +15,7 @@ example:
 
 
 
-(not i used the same code i used for the 999 script i just changed a couple things)
+(note i used the same code i used for the 999 script i just changed a couple things)
 
 
 
