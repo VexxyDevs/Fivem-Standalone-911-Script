@@ -40,3 +40,21 @@ put this in your server.cfg:
 "start 911"
 
 join the discord if you need support :D. https://discord.gg/Je4MYPYwk8
+
+
+
+
+v2 showcase image:
+![showcase911](https://user-images.githubusercontent.com/122513007/233794212-746a7f57-ee30-4c46-8db0-2ffecb0a2bcc.JPG)
+info about it:
+what ive fixed/done:
+ive changed the code so i dont use the exact same code as the 999 script i made we use similar but everything is changed to 911 and nothing to do with 999 is in there :).
+
+what to expect in the future:
+1. auto location to the call
+
+
+2. better colors and the names changed (the call 911 call database & Emergency Center) may be changed to something better
+
+
+thats it 
